@@ -1,2 +1,2 @@
-  nombre = "Juan"
-print ("Mi nombre es " + nombre)
+nombre = "Jose"
+print ("Mi nombre es ")
